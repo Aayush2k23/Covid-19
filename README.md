@@ -1,5 +1,5 @@
 # Covid-19
-
+## This project is made by SQL, Excel and Tableau
 ### 🎯Objective:
 The objective of this data analysis project is to analyze and derive insights from COVID-19 data (Jan 2020 - Jun 2023) related to total cases, total deaths, infection rates, infected population percentage, and vaccination data. By exploring these factors, we aim to gain a deeper understanding of the global impact of the pandemic and identify trends or patterns that can contribute to informed decision-making and strategies. 
 
